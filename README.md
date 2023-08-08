@@ -1,16 +1,16 @@
-### Hi there 👋
+<img width="1834" alt="Make your README" src="https://github.com/ArtyomPashun/ArtyomPashun/assets/55047614/3ab02e39-fffa-451e-8798-b7d6bd5e7ada">
 
-<!--
-**ArtyomPashun/ArtyomPashun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills :technologist:: 
+Java (version 11), Design Patterns, JPA/Hibernate, Spring (Core, MVC, Boot, Data, Security), Build tools(Maven, Gradle), Git, SQL (PostgreSQL, MySQL), Liquibase, Flyway, JUnit 5
 
-Here are some ideas to get you started:
+## Courses :mortar_board::
+🌱 I’m currently studying at MJC School (Stage 2 in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts :envelope::
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/artsiom-pashun//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/artyom_p)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:artyom.pashun@gmail.com)
+
+## Random Dev Quote ✍️:
+ "My dear, here we must run as fast as we can, just to stay in place. And if you wish to go anywhere you must run twice as fast as that."
+ 
+ 
+ Lewis Carroll
