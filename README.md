@@ -1,7 +1,7 @@
 <img width="1834" alt="Make your README" src="https://github.com/ArtyomPashun/ArtyomPashun/assets/55047614/3ab02e39-fffa-451e-8798-b7d6bd5e7ada">
 
 ## Skills :technologist:: 
-Java , Design Patterns, Java EE, Spring (Core, Boot, Security, Data, MVC, Cloud), JPA, Hibernate, JDBC, JWT, OAuth, Keycloak, PostgreSQL, MySQL, MongoDB, Apache Kafka, REST API, SOAP, Gradle, Maven, Lombok, MapStruct, Liquibase, Flyway, Junit 5, Mockito, TestContainers, JMeter, Jenkins, Docker, Docker-compose, Prometheus, Grafana, Google Cloud Platform., Postman, Swagger
+Java EE, Spring (Core, Boot, Security, Data, MVC, Cloud), JPA, Hibernate, JDBC, JWT, OAuth, Keycloak, PostgreSQL, MySQL, MariaDB, MongoDB, Apache Kafka, REST API, Gradle, Maven, Lombok, MapStruct, Liquibase, Flyway, Junit 5, Mockito, TestContainers, JMeter, Jenkins, GitLab CI/CD, Docker, Docker-compose, Prometheus, Grafana, Google Cloud Platform, Yandex Cloud, Postman, Swagger
 
 ## Courses :mortar_board::
 🌱 I’m deepening my knowledge at MJC School
